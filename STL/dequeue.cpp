@@ -11,5 +11,7 @@ int main() {
     for (int num : d) {
         cout << num << " ";
     }
+
     return 0;
+    
 }
